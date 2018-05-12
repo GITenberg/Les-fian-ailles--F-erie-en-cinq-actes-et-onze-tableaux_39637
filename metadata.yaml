@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39637#Les-fian-ailles--F-erie-en-cinq-actes-et-onze-tableaux
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2012-05-06'
 gutenberg_type: Text
